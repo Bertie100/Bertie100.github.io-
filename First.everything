@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "author": "Albert",
+        "date": "2024-10-23",
+        "version": "1.0",
+        "description": "A do-everything file containing various types of content."
+    },
+    "content": [
+        {
+            "type": "text",
+            "data": {
+                "title": "My First Text Section",
+                "body": "This section contains some text."
+            }
+        },
+        {
+            "type": "image",
+            "data": {
+                "url": "https://example.com/image.png",
+                "description": "An example image."
+            }
+        },
+        {
+            "type": "audio",
+            "data": {
+                "url": "https://example.com/audio.mp3",
+                "duration": "120",
+                "description": "An example audio clip."
+            }
+        },
+        {
+            "type": "python_code",
+            "data": {
+                "code": "print('Hello from the everything file!')",
+                "description": "A simple Python print statement."
+            }
+        }
+    ]
+}
